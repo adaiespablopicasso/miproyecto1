@@ -1,7 +1,5 @@
 
 hola pepe
 
-:wq
-:wq!
-
+adios antonio
 
